@@ -1,0 +1,37 @@
+{
+  "name": "equinox",
+  "version": "1.37.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrndxyz/Equinox.git"
+  },
+  "author": "wrnd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wrndxyz/Equinox/issues"
+  },
+  "homepage": "https://github.com/wrndxyz/Equinox#readme",
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "^3.0.0",
+    "@tomphttp/bare-server-node": "^2.0.1",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.1",
+    "express-device": "^0.4.2",
+    "express-useragent": "^1.0.15",
+    "http": "^0.0.1-security",
+    "node": "^21.2.0",
+    "node-fetch": "^3.3.2",
+    "node-localstorage": "^3.0.5",
+    "pm2": "^5.3.1",
+    "uv": "github:wrndxyz/uv"
+  }
+}

@@ -1,0 +1,340 @@
+{
+    "featured": [
+      {
+        "name": "Fortnite",
+        "image": "/assets/img/media/games/fortnite.webp",
+        "url": "https://play.geforcenow.com/mall/#/deeplink?game-id=46bfab06-d864-465d-9e56-2d9e45cdee0a"
+      },
+      {
+        "name": "Roblox",
+        "image": "/assets/img/media/games/roblox.webp",
+        "url": "https://nowgg.me"
+      },
+      {
+        "name": "Apex Legends",
+        "image": "/assets/img/media/games/apexlegends.webp",
+        "url": "https://play.geforcenow.com/games?game-id=cb2b1b5f-54ba-45fd-9839-96bbfe1376cd&lang=en_US&asset-id=01_0dd590e2-4d39-4b7f-804a-ae30330af836"
+      },
+      {
+        "name": "1v1.lol",
+        "image": "/assets/img/media/games/1v1lol.webp",
+        "url": "gtx.learntherisks.site/games/1v1.lol/index.html"
+      },
+      {
+        "name": "Monkey Mart",
+        "image": "/assets/img/media/games/monkeymart.webp",
+        "url": "https://gnhustgames.github.io/monkeymart/"
+      },
+      {
+        "name": "Slope",
+        "image": "/assets/img/media/games/slope.webp",
+        "url": "https://radon.games/cdn/unity.html?id=slope"
+      },
+      {
+        "name": "Classic Minecraft",
+        "image": "/assets/img/media/games/minecraft.webp",
+        "url": "https://classic.minecraft.net/"
+      },
+      {
+        "name": "Subway Surfers",
+        "image": "/assets/img/media/games/subwaysurfers.webp",
+        "url": "https://selenite.cc/semag/subway-surfers-ny/index.html"
+      }
+    ],
+    "recent": [
+      {
+        "name": "Granny 2",
+        "image": "/assets/img/media/games/granny2.webp",
+        "url": "https://html5.gamedistribution.com/rvvASMiM/84a18f0ca4264a4b924cf8feae4042c1/index.html",
+        "longLoad": true
+      },
+      {
+        "name": "Plants Vs Zombies",
+        "image": "/assets/img/media/games/plantsvszombies.webp",
+        "url": "https://www.gameslol.net/data/waflash/index.php?g=pvz/en/pvz",
+        "longLoad": true
+      },
+      {
+        "name": "Among Us",
+        "image": "/assets/img/media/games/amongus.webp",
+        "url": "https://among-us-1tim-temp-dmain.netlify.app/",
+        "longLoad": true
+      },
+      {
+        "name": "Moto X3M",
+        "image": "/assets/img/media/games/motox3m.webp",
+        "url": "https://cdn.wrnd.lat/game/moto-x3m/index.html"
+      },
+      {
+        "name": "Moto X3M 2",
+        "image": "/assets/img/media/games/motox2m.webp",
+        "url": "https://cdn.wrnd.lat/game/motox3m2/index.html"
+      },
+      {
+        "name": "Smash Karts",
+        "image": "/assets/img/media/games/smashkarts.webp",
+        "url": "https://smashkarts.io/"
+      },
+      {
+        "name": "FNAF: Sister Location",
+        "image": "/assets/img/media/games/fnafsl.webp",
+        "url": "https://run3.io/popgame/fnaf/fnafsl.html",
+        "longLoad": true
+      },
+      {
+        "name": "FNAF 2",
+        "image": "/assets/img/media/games/fnaf2.webp",
+        "url": "https://run3.io/popgame/fnaf/fnaf2.html",
+        "longLoad": true
+      },
+      {
+        "name": "The Backrooms",
+        "image": "/assets/img/media/games/backrooms.webp",
+        "url": "https://kdata1.com/2022/05/backroom16/",
+        "longLoad": true
+      },
+      {
+        "name": "Drive Mad",
+        "image": "/assets/img/media/games/drivemad.webp",
+        "url": "https://cdn.wrnd.lat/game/drive-mad/index.html"
+      },
+      {
+        "name": "Basketball Stars",
+        "image": "/assets/img/media/games/basketballstars.webp",
+        "url": "https://cdn.wrnd.lat/game/basketball-stars/index.html"
+      },
+      {
+        "name": "Stickman Hook",
+        "image": "/assets/img/media/games/stickmanhook.webp",
+        "url": "https://cdn.wrnd.lat/game/stickman-hook/index.html"
+      },
+      {
+        "name": "Drift Hunters",
+        "image": "/assets/img/media/games/drifthunters.webp",
+        "url": "https://www.180sx.club/media/games/drift-hunters/drift-hunters.html",
+        "longLoad": true
+      },
+      {
+        "name": "Stickman Golf",
+        "image": "/assets/img/media/games/stickmangolf.webp",
+        "url": "https://cdn.wrnd.lat/game/stickman-golf/index.html"
+      },
+      {
+        "name": "Cluster Rush",
+        "image": "/assets/img/media/games/clusterrush.webp",
+        "url": "https://cdn.wrnd.lat/game/cluster-rush/index.html",
+        "longLoad": true
+      },
+      {
+        "name": "Rooftop Snipers",
+        "image": "/assets/img/media/games/rooftopsnipers.webp",
+        "url": "https://cdn.wrnd.lat/game/rooftop-snipers/index.html"
+      },
+      {
+        "name": "Shell Shockers",
+        "image": "/assets/img/media/games/shellshockers.webp",
+        "url": "https://shellshock.io/"
+      },
+      {
+        "name": "Papas Pizzeria",
+        "image": "/assets/img/media/games/papaspizzaria.webp",
+        "url": "https://cdn.wrnd.lat/game/papaspizzaria/index.html"
+      },
+      {
+        "name": "Stickman Boost",
+        "image": "/assets/img/media/games/stickmanboost.webp",
+        "url": "https://cdn.wrnd.lat/game/stickman-boost/index.html"
+      },
+      {
+        "name": "Flappy Bird",
+        "image": "/assets/img/media/games/flappybird.webp",
+        "url": "https://flappy-bird.co/game/flappy-bird/"
+      },
+      {
+        "name": "Madalin Stunt Cars 2",
+        "image": "/assets/img/media/games/madalinstunt2.webp",
+        "url": "https://cdn.wrnd.lat/game/madalin-stunt-cars-2/index.html",
+        "longLoad": true
+      },
+      {
+        "name": "Jetpack Joyride",
+        "image": "/assets/img/media/games/jetpackjoyride.webp",
+        "url": "https://cdn.wrnd.lat/game/jetpack-joyride/index.html"
+      },
+      {
+        "name": "Swerve",
+        "image": "/assets/img/media/games/swerve.webp",
+        "url": "https://cdn.wrnd.lat/game/swerve/index.html"
+      },
+      {
+        "name": "Snake",
+        "image": "/assets/img/media/games/snake.webp",
+        "url": "https://cdn.wrnd.lat/game/snake/index.html"
+      },
+      {
+        "name": "Zombs Royale",
+        "image": "/assets/img/media/games/zombsroyale.webp",
+        "url": "https://cdn.wrnd.lat/game/zombsroyale/index.html"
+      },
+      {
+        "name": "Sushi Unroll",
+        "image": "/assets/img/media/games/sushunroll.webp",
+        "url": "https://cdn.wrnd.lat/game/sushi-unroll/index.html"
+      },
+      {
+        "name": "Crossy Road",
+        "image": "/assets/img/media/games/crossyroad.webp",
+        "url": "https://cdn.wrnd.lat/game/crossyroad/index.html"
+      },
+      {
+        "name": "Wordle",
+        "image": "/assets/img/media/games/wordle.webp",
+        "url": "https://cdn.wrnd.lat/game/wordle/index.html"
+      },
+      {
+        "name": "Solitaire",
+        "image": "/assets/img/media/games/solitaire.webp",
+        "url": "https://cdn.wrnd.lat/game/google-solitaire/index.html"
+      },
+      {
+        "name": "Zelda",
+        "image": "/assets/img/media/games/zelda.webp",
+        "url": "https://cdn.wrnd.lat/game/zelda/index.html"
+      },
+      {
+        "name": "Angry Birds",
+        "image": "/assets/img/media/games/angrybirds.webp",
+        "url": "https://cdn.wrnd.lat/game/angry-birds/index.html"
+      },
+      {
+        "name": "Bad Piggies",
+        "image": "/assets/img/media/games/badpiggies.webp",
+        "url": "https://cdn.wrnd.lat/game/bad-piggies/index.html"
+      },
+      {
+        "name": "Duck Life 5",
+        "image": "/assets/img/media/games/dl5.webp",
+        "url": "https://cdn.wrnd.lat/game/dl5/index.html"
+      },
+      {
+        "name": "Clicker Heroes",
+        "image": "/assets/img/media/games/clickerheroes.webp",
+        "url": "https://cdn.wrnd.lat/game/clicker-heroes/index.html"
+      },
+      {
+        "name": "Vex 7",
+        "image": "/assets/img/media/games/vex7.webp",
+        "url": "https://cdn.wrnd.lat/game/vex7/index.html"
+      },
+      {
+        "name": "Vex 6",
+        "image": "/assets/img/media/games/vex6.webp",
+        "url": "https://cdn.wrnd.lat/game/vex6/index.html"
+      },
+      {
+        "name": "Vex 5",
+        "image": "/assets/img/media/games/vex5.webp",
+        "url": "https://cdn.wrnd.lat/game/vex5/index.html"
+      },
+      {
+        "name": "Vex 4",
+        "image": "/assets/img/media/games/vex4.webp",
+        "url": "https://cdn.wrnd.lat/game/vex4/index.html"
+      },
+      {
+        "name": "Vex 3",
+        "image": "/assets/img/media/games/vex3.webp",
+        "url": "https://cdn.wrnd.lat/game/vex3/index.html"
+      },
+      {
+        "name": "2048",
+        "image": "/assets/img/media/games/2048.webp",
+        "url": "https://radon.games/cdn/html/2048/index.html"
+      },
+      {
+        "name": "Blockpost",
+        "image": "/assets/img/media/games/blockpost.webp",
+        "url": "https://gnhustgames.github.io/blockpost/"
+      },
+      {
+        "name": "Paper.io",
+        "image": "/assets/img/media/games/paperio.webp",
+        "url": "https://gnhustgames.github.io/paperio/"
+      },
+      {
+        "name": "YoHoHo.io",
+        "image": "/assets/img/media/games/yohoho.webp",
+        "url": "https://gnhustgames.github.io/holeio/"
+      },
+      {
+        "name": "Boxing Random",
+        "image": "/assets/img/media/games/boxingrandom.webp",
+        "url": "https://gnhustgames.github.io/boxingrandom/"
+      },
+      {
+        "name": "Minesweeper",
+        "image": "/assets/img/media/games/minesweeper.webp",
+        "url": "https://gnhustgames.github.io/minesweeper/"
+      },
+      {
+        "name": "Tetris (Legacy)",
+        "image": "/assets/img/media/games/tetris.webp",
+        "url": "https://gnhustgames.github.io/tetris/"
+      },
+      {
+        "name": "Temple Run 2",
+        "image": "/assets/img/media/games/templerun2.webp",
+        "url": "https://gnhustgames.github.io/templerun2/"
+      },
+      {
+        "name": "Pacman",
+        "image": "/assets/img/media/games/pacman.webp",
+        "url": "https://gnhustgames.github.io/pacman/"
+      },
+      {
+        "name": "Granny",
+        "image": "/assets/img/media/games/granny.webp",
+        "url": "https://gnhustgames.github.io/granny/"
+      },
+      {
+        "name": "Learn 2 Fly",
+        "image": "/assets/img/media/games/learn2fly.webp",
+        "url": "https://gnhustgames.github.io/learntofly2/"
+      },
+      {
+        "name": "Fireboy and Watergirl",
+        "image": "/assets/img/media/games/fireboywatergirl3.webp",
+        "url": "https://gnhustgames.github.io/fireboy-watergirl-3/"
+      },
+      {
+        "name": "Friday Night Funkin'",
+        "image": "/assets/img/media/games/fridaynightfunkin.webp",
+        "url": "https://gnhustgames.github.io/friday-night-funkin/"
+      },
+      {
+        "name": "Retro Bowl",
+        "image": "/assets/img/media/games/retro-bowl.webp",
+        "url": "https://testing.wrnd.lat/assets/local/games/rb/index.html"
+      },
+      {
+        "name": "BitLife",
+        "image": "/assets/img/media/games/bitlife.webp",
+        "url": "https://gnhustgames.github.io/bitlife/"
+      },
+      {
+        "name": "Geometry Dash",
+        "image": "/assets/img/media/games/geodash.webp",
+        "url": "https://gnhustgames.github.io/geometrydash/"
+      },
+      {
+        "name": "Cookie Clicker",
+        "image": "/assets/img/media/games/cookieclicker.webp",
+        "url": "https://gnhustgames.github.io/clickercookie/"
+      },
+      {
+        "name": "Tunnel Rush",
+        "image": "/assets/img/media/games/tunnelrush.webp",
+        "url": "https://gnhustgames.github.io/tunnelrush/"
+      }
+    ]
+  }

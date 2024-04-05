@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   <title>New Tab</title>
+   
+   <link rel="stylesheet" href="/assets/css/base.css" />
+   <link rel="stylesheet" href="/assets/css/home.css" />
+
+   <link rel="icon" type="image/x-icon" href="/assets/eq.ico">
+   <meta name="robots" content="noindex, nofollow">
+
+   <script src="/uv/uv.bundle.js"></script>
+   <script src="/uv/uv.config.js"></script>
+   <script src="/assets/js/index.js" defer></script>
+   <script src="/assets/js/functions.js" defer></script>
+
+   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PC9KFJ31NH"></script>
+   <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+
+      gtag('config', 'G-PC9KFJ31NH');
+   </script>
+</head>
+
+<body>
+
+   <div class="topbar">
+      <div class="left-buttons">
+         <a id="exit" onclick="exit()" style="display: none">
+            <span style="font-weight: bold;">Exit</span>
+         </a>
+         <a id="homebtn" href="/" class="<%= path === '/' ? 'nav-active' : 'nav-btn' %>"><span>Home</span></a>
+         <a href="/a" class="<%= path === '/a' ? 'nav-active' : 'nav-btn' %>"><span>Apps</span></a>
+         <a href="/g" class="<%= path === '/g' ? 'nav-active' : 'nav-btn' %>"><span>Games</span></a>
+      </div>
+
+      <form id="form" class="center-form">
+         <input autofocus autocomplete="off" class="search" id="search" placeholder="What's on your mind?" required />
+         <button type="submit" class="submit-button">
+            <i class="fas fa-search searchicon"></i>
+         </button>
+      </form>
+
+      <div class="right-section">
+         <a class="<%= path === '/a' ? 'nav-active' : 'nav-btn' %>" id="settings" href="/s"
+            style="display: flex; justify-content: flex-end; margin-left: auto;">Settings</a>
+         <a id="fullscreen" onclick="fullscreen()" style="display: none">
+            <span>Full Screen</span>
+         </a>
+         <a id="time" class="nav-btn" style="display: flex; justify-content: flex-end; margin-left: auto;">00:00PM</a>
+      </div>
+   </div>
+
+   <div id="align" style="min-height: 100%">
+      <iframe id="ifr"></iframe>
+      <div id="m"></div>
+      <div class="loading-screen" id="loadingScreen">
+         <img class="loading-image" src="assets/eq.png">
+         <div class="loading-text">Loading requested site...</div>
+         <progress class="loading-progress" value="0" max="100" style="background-color: #ccc; height: 10px"></progress>
+      </div>
+   </div>
+
+   <div class="alignment-container" style="margin-top:10%;">
+      <div class="header-container">
+         <div class="logo-image">
+            <img src="assets/eq.png" alt="logo" id="spinning" width="100%">
+         </div>
+      </div>
+
+      <div style="text-align: center;">
+         <p id="creation-info">
+            Equinox was created in 2023
+         </p>
+      </div>
+
+      <div class="shortcuts">
+         <div class="shortcut-frame">
+            <div class="game-container" data-href="https://wrnd.xyz">
+               <div class="game">
+                  <img src="/assets/img/media/apps/wrnd.webp">
+               </div>
+            </div>
+            <div class="game-container"
+               data-href="https://play.geforcenow.com/games?game-id=cb2b1b5f-54ba-45fd-9839-96bbfe1376cd&lang=en_US&asset-id=01_0dd590e2-4d39-4b7f-804a-ae30330af836"
+              >
+               <div class="game">
+                  <img src="/assets/img/media/games/apexpromo.webp">
+               </div>
+            </div>
+            <div class="game-container"
+               data-href="https://play.geforcenow.com/mall/#/deeplink?game-id=46bfab06-d864-465d-9e56-2d9e45cdee0a"
+              >
+               <div class="game">
+                  <img src="/assets/img/media/games/fortnitepromo.webp">
+               </div>
+            </div>
+            <div class="game-container" data-href="https://netflix.com">
+               <div class="game">
+                  <img src="/assets/img/media/apps/netflixsmile.webp">
+               </div>
+            </div>
+         </div>
+      </div>
+      <footer>
+         <a title="discord" class="fitem" href="/tos">Terms</a>
+         <a title="discord" class="fitem" href="https://discord.gg/H7JqRwykhk">Discord</a>
+         <a title="version" href="https://github.com/wrndxyz/Equinox" style="color: rgb(83, 83, 83); font-weight: 500">
+            Equinox V1.38
+         </a>
+         <a title="github" class="fitem" href="https://github.com/wrndxyz/">WRND</a>
+         <a title="discord" class="fitem" href="/credits">Credits</a>
+      </footer>
+   </div>
+
+   <script src="/assets/js/home.js"></script>
+   <script src="/assets/js/proxy.js" defer></script>
+</body>
+
+</html>
